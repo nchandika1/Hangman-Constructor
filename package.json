@@ -1,0 +1,22 @@
+{
+  "name": "hangman-constructor",
+  "version": "1.0.0",
+  "description": "Hangman Game using javascript constructors",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nchandika1/Hangman-Constructor.git"
+  },
+  "author": "Nagarani Chandika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nchandika1/Hangman-Constructor/issues"
+  },
+  "homepage": "https://github.com/nchandika1/Hangman-Constructor#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
